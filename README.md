@@ -28,7 +28,8 @@ This is the official website for **Poornaprajna Library**, developed to provide 
 
 ## Admin Section  
 <img src="https://github.com/user-attachments/assets/a8442040-b585-49f7-9a97-df9f46e68fdd" width="400">
-<img src="https://github.com/user-attachments/assets/6b9bb4fe-98b3-463b-86e1-2835f4cec845" width="400">
+![Screenshot 2025-02-09 203838](https://github.com/user-attachments/assets/83100444-6d95-4345-88c6-b9a342ad0c2b)
+
 
 
 
