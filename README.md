@@ -22,15 +22,13 @@ This is the official website for **Poornaprajna Library**, developed to provide 
 ## Screenshots  
 
 <img src="https://github.com/user-attachments/assets/e2765a5b-3f21-4312-b76a-e953f1820b83" width="400">  
-
 <img src="https://github.com/user-attachments/assets/34fc53ef-c9de-49aa-b09b-9c3b3dbe5d36" width="400">  
-
 <img src="https://github.com/user-attachments/assets/138da7c4-3b4a-43dd-a9f1-e1fe2ae2689b" width="400">  
-
 <img src="https://github.com/user-attachments/assets/5b5cca61-d2ec-48fd-b9be-bac3fbe92491" width="400">  
 
 ## Admin Section  
-
 <img src="https://github.com/user-attachments/assets/a8442040-b585-49f7-9a97-df9f46e68fdd" width="400">
+<img src="https://github.com/user-attachments/assets/6b9bb4fe-98b3-463b-86e1-2835f4cec845" width="400">
+
 
 
